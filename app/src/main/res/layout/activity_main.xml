@@ -28,4 +28,15 @@
         tools:layout_editor_absoluteX="97dp"
         tools:layout_editor_absoluteY="158dp" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="66dp"
+        android:layout_height="72dp"
+        android:fontFamily="@font/alfa_slab_one"
+        android:text="10"
+        android:textColor="#00BCD4"
+        android:textSize="48sp"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="418dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
